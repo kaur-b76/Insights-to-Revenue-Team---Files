@@ -12,5 +12,9 @@ Used sync sliclers to connect slicers with all the pages
 choosed specific themes for dashboard for better visualization
 find insights after EDA process
 
+Here are the screenshots for my PowerBI Dashboard
+![Power BI Dashboard](https://github.com/kaur-b76/Insights-to-Revenue-Team---Files/blob/main/Page%201.png)
+
+
 
 
