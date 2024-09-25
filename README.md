@@ -15,6 +15,12 @@ find insights after EDA process
 Here are the screenshots for my PowerBI Dashboard
 ![Power BI Dashboard](https://github.com/kaur-b76/Insights-to-Revenue-Team---Files/blob/main/Page%201.png)
 
+![Power BI Dashboard](https://github.com/kaur-b76/Insights-to-Revenue-Team---Files/blob/main/Page%202.png)
+
+![Power BI Dashboard](https://github.com/kaur-b76/Insights-to-Revenue-Team---Files/blob/main/Page%203.png)
+
+![Power BI Dashboard](https://github.com/kaur-b76/Insights-to-Revenue-Team---Files/blob/main/Page%204.png)
+
 
 
 
