@@ -8,7 +8,7 @@ Things I learn from this project:
 
 Clean, prepare and connect the datasets
 Created measures and added custom columns
-Used sync sliclers to connect slicers with all the pages
+Used sync slicers to connect slicers with all the pages
 choosed specific themes for dashboard for better visualization
 find insights after EDA process
 
