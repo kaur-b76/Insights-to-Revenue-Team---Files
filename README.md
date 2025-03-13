@@ -22,5 +22,7 @@ Here are the screenshots for my PowerBI Dashboard
 ![Power BI Dashboard](https://github.com/kaur-b76/Insights-to-Revenue-Team---Files/blob/main/Page%204.png)
 
 
+## License & Usage Restrictions  
+This repository is provided for viewing only. Downloading, modifying, or using this work for any purpose is strictly prohibited. See the [LICENSE](./LICENSE) file for details.
 
 
